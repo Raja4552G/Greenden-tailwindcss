@@ -8,4 +8,4 @@ Greenden is a simple and responsive gardening website built using HTML and Tailw
 ✅ Built with HTML & Tailwind CSS
 ✅ Fast and lightweight
 # How to Use
-Link[]
+Link[ https://raja4552g.github.io/Greenden-tailwindcss/]
